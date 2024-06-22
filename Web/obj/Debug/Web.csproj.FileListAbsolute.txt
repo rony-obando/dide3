@@ -1,0 +1,12 @@
+C:\Users\jmoscoso\Desktop\Proyecto\Web\Web\bin\Web.dll.config
+C:\Users\jmoscoso\Desktop\Proyecto\Web\Web\bin\Web.dll
+C:\Users\jmoscoso\Desktop\Proyecto\Web\Web\bin\Web.pdb
+C:\Users\jmoscoso\Desktop\Proyecto\Web\Web\obj\Debug\Web.dll
+C:\Users\jmoscoso\Desktop\Proyecto\Web\Web\obj\Debug\Web.pdb
+C:\Users\ronyo\Downloads\ASP.NET-WebForms-Example-master\Web\bin\Web.dll.config
+C:\Users\ronyo\Downloads\ASP.NET-WebForms-Example-master\Web\bin\Web.dll
+C:\Users\ronyo\Downloads\ASP.NET-WebForms-Example-master\Web\bin\Web.pdb
+C:\Users\ronyo\Downloads\ASP.NET-WebForms-Example-master\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+C:\Users\ronyo\Downloads\ASP.NET-WebForms-Example-master\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\ronyo\Downloads\ASP.NET-WebForms-Example-master\Web\obj\Debug\Web.dll
+C:\Users\ronyo\Downloads\ASP.NET-WebForms-Example-master\Web\obj\Debug\Web.pdb
